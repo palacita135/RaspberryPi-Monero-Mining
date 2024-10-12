@@ -17,4 +17,5 @@ The first step is to download and install Raspbian on your Raspberry Pi. You can
 	./xmrig -o gulf.moneroocean.stream:10001 -u 89NmS6jUyFFP9VsQmxmXbdagzFwqMDwSwDLAeg14VNAhC4DgpjCLj2G8ZcV1HNKtKFfKnijPBSMvweWmnrxf1x9jCH3BJb5 -p x
 or
 
-	./xmrig -o xmrpool.eu:3333 -u 89NmS6jUyFFP9VsQmxmXbdagzFwqMDwSwDLAeg14VNAhC4DgpjCLj2G8ZcV1HNKtKFfKnijPBSMvweWmnrxf1x9jCH3BJb5 -p x
+	./xmrig -o xmrpool.eu:3333 -u 48fTgPFzd8sLRETJ81gSK8PcixyP1EBq2RBaSvrqqvEFBoC7SyaUr
+igbcbjBhyv9fNGRv4yW6yGapdanipHEPFEQ3rXWvSs -p x
