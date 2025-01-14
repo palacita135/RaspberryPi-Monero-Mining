@@ -1,4 +1,4 @@
-# RaspberryPi-Monero-Mining
+# RaspberryPi-XMRIG-Mining
 Guide for mining Monero with Raspberry Pi
 
 The first step is to download and install Raspbian on your Raspberry Pi. You can find the latest version of Raspbian on the Raspberry Pi website. Once you have downloaded the image, you can use Etcher to flash the image to your SD card.
